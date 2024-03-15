@@ -1,0 +1,7 @@
+{
+  "values": {
+    "name": "airflow-main",
+    "branch": "main",
+    "path": "bitnami/airflow"
+  }
+}
