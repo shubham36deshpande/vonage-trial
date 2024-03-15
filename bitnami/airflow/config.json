@@ -1,7 +1,7 @@
 {
   "values": {
-    "name": "airflow-main",
-    "branch": "main",
+    "name": "airflow-test",
+    "branch": "test-branch",
     "path": "bitnami/airflow"
   }
 }
